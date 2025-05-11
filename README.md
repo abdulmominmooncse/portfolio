@@ -1,4 +1,4 @@
-# 🌟 Noor Mohammad - Portfolio Website
+# 🌟 Portfolio Website
 
 A **Next.js** 14 and **Framer Motion** powered personal portfolio website to showcase my skills, experience, and projects.
 
